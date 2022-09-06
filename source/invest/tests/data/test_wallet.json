@@ -1,0 +1,93 @@
+
+{
+    "wallet_ratio": {
+        "quick": [
+            {
+                "name": "usd",
+                "ratio": 25
+            },
+            {
+                "name": "eur",
+                "ratio": 25
+            },
+            {
+                "name": "gbp",
+                "ratio": 25
+            },
+            {
+                "name": "chf",
+                "ratio": 25
+            }
+        ],
+        "short": [
+            {
+                "name": "deposit",
+                "ratio": 20
+            },
+            {
+                "name": "bond",
+                "ratio": 80
+            }
+        ],
+        "long": [
+            {
+                "name": "gold",
+                "ratio": 20
+            },
+            {
+                "name": "deposit",
+                "ratio": 30
+            },
+            {
+                "name": "bond",
+                "ratio": 50
+            }
+        ]
+    },
+    "investments": {
+        "quick": [],
+        "short": [],
+        "long": [
+            {
+                "name": "gold",
+                "date": "2000-01-01",
+                "price": 7000,
+                "currency": "pln",
+                "quantity": 100,
+                "unit": "oz"
+            },
+            {
+                "name": "gold",
+                "date": "2000-02-01",
+                "price": 10000,
+                "currency": "pln",
+                "quantity": 50,
+                "unit": "oz"
+            },
+            {
+                "name": "gold",
+                "date": "2000-03-01",
+                "price": 9500,
+                "currency": "pln",
+                "quantity": -30,
+                "unit": "oz"
+            },
+            {
+                "name": "gold",
+                "date": "2000-06-01",
+                "price": 5000,
+                "currency": "pln",
+                "quantity": 80,
+                "unit": "oz"
+            },
+            {
+                "name": "gold",
+                "date": "2000-10-01",
+                "price": 7500,
+                "currency": "pln",
+                "quantity": -100,
+                "unit": "oz"
+            }
+        ]
+    }
+}
